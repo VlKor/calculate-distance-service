@@ -1,0 +1,112 @@
+<dataToUpload>
+	<city>
+		<latitude>40.7127837</latitude>
+		<longitude>-74.0059413</longitude>
+		<name>New York</name>
+	</city>
+	<city>
+		<latitude>34.0522342</latitude>
+		<longitude>-118.2436849</longitude>
+		<name>Los Angeles</name>
+	</city>
+	<city>
+		<latitude>41.8781136</latitude>
+		<longitude>-87.6297982</longitude>
+		<name>Chicago</name>
+	</city>
+	<city>
+		<latitude>29.7604267</latitude>
+		<longitude>-95.3698028</longitude>
+		<name>Houston</name>
+	</city>
+	<city>
+		<latitude>39.9525839</latitude>
+		<longitude>-75.1652215</longitude>
+		<name>Philadelphia</name>
+	</city>
+	<city>
+		<latitude>33.4483771</latitude>
+		<longitude>-112.0740373</longitude>
+		<name>Phoenix</name>
+	</city>
+	<city>
+		<latitude>29.4241219</latitude>
+		<longitude>-98.49362819999999</longitude>
+		<name>San Antonio</name>
+	</city>
+	<city>
+		<latitude>32.715738</latitude>
+		<longitude>-117.1610838</longitude>
+		<name>San Diego</name>
+	</city>
+	<city>
+		<latitude>32.7766642</latitude>
+		<longitude>-96.79698789999999</longitude>
+		<name>Dallas</name>
+	</city>
+	<city>
+		<latitude>37.3382082</latitude>
+		<longitude>-121.8863286</longitude>
+		<name>San Jose</name>
+	</city>
+	<city>
+		<latitude>30.267153</latitude>
+		<longitude>-97.7430608</longitude>
+		<name>Austin</name>
+	</city>
+	<city>
+		<latitude>39.768403</latitude>
+		<longitude>-86.158068</longitude>
+		<name>Indianapolis</name>
+	</city>
+	<city>
+		<latitude>30.3321838</latitude>
+		<longitude>-81.65565099999999</longitude>
+		<name>Jacksonville</name>
+	</city>
+	<city>
+		<latitude>37.7749295</latitude>
+		<longitude>-122.4194155</longitude>
+		<name>San Francisco</name>
+	</city>
+	<city>
+		<latitude>39.9611755</latitude>
+		<longitude>-82.99879419999999</longitude>
+		<name>Columbus</name>
+	</city>
+	<city>
+		<latitude>35.2270869</latitude>
+		<longitude>-80.8431267</longitude>
+		<name>Charlotte</name>
+	</city>
+	<city>
+		<latitude>32.7554883</latitude>
+		<longitude>-97.3307658</longitude>
+		<name>Fort Worth</name>
+	</city>
+	<city>
+		<latitude>42.331427</latitude>
+		<longitude>-83.0457538</longitude>
+		<name>Detroit</name>
+	</city>
+	<city>
+		<latitude>31.7775757</latitude>
+		<longitude>-106.4424559</longitude>
+		<name>El Paso</name>
+	</city>
+	<city>
+		<latitude>35.1495343</latitude>
+		<longitude>-90.0489801</longitude>
+		<name>Memphis</name>
+	</city>
+	<distance>
+		<fromCity>Jacksonville</fromCity>
+		<toCity>Dallas</toCity>
+		<distance>12345</distance>
+	</distance>
+	<distance>
+		<fromCity>Jacksonville</fromCity>
+		<toCity>Fort Worth</toCity>
+		<distance>6789</distance>
+	</distance>
+</dataToUpload>
